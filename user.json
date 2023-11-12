@@ -1,0 +1,12 @@
+[
+{
+  "name": "alice",
+  "age": 21,
+  "isMarried": false
+},
+{
+  "name": "ryan",
+  "age": 30,
+  "isMarried": true
+}
+]
